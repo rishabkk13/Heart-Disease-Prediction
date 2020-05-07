@@ -4,7 +4,10 @@ The goal is to analyse, evaluate and compare how each of the three below algorit
 2) Support Vector Classifier
 3) Decision Tree classifier  
 
-## The scores(results) for each algorithm are as follows:
+Point-Biserial Correlation is used for pre data processing, which is a measure of the strength of association between a continuous-level variable (ratio or interval data) and a binary variable.  
+The dataset used is open sourced and was downloaded from Kaggle. 
+
+### The scores(results) for each algorithm are as follows:
 1) KNN - 87%
 2) SVM - 83%
 3) Decision Tree - 79%
